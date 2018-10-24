@@ -12,7 +12,7 @@
 		<label>Email or phone</label>
 		<input type="text" name="Email or Phone">
 		
-		<label>Password</label>
+		<label>Enter Password</label>
 		<input type="password" name="Password">
 	
 		<button class="button">
