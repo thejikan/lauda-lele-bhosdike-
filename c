@@ -63,3 +63,4 @@ int main()
         }
         cout<< v[0] << endl;
 }
+//lad chato mera
