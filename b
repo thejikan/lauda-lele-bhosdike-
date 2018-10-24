@@ -62,7 +62,7 @@ p{
 }
 .up{
 	font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
-    font-weight: bold !important;
+    font-weight: bold;
     letter-spacing: normal;
     text-rendering: optimizelegibility;
 }
